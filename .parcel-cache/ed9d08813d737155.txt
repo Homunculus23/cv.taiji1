@@ -1,0 +1,18 @@
+17
+32C:\Users\fpatr\Desktop\cv.1\dist133041687743318558 1
+38C:\Users\fpatr\Desktop\cv.1\.gitignore133041673209965366 0
+31C:\Users\fpatr\Desktop\cv.1\src133041673039982875 1
+42C:\Users\fpatr\Desktop\cv.1\src\index.html133041653493029336 0
+53C:\Users\fpatr\Desktop\cv.1\dist\cv.1.59712999.js.map133041662715840268 0
+49C:\Users\fpatr\Desktop\cv.1\dist\cv.1.59712999.js133041662715810348 0
+39C:\Users\fpatr\Desktop\cv.1\src\main.js133041664349786064 0
+40C:\Users\fpatr\Desktop\cv.1\src\taiji.js133041664716631032 0
+54C:\Users\fpatr\Desktop\cv.1\dist\index.de158e3a.js.map133041663629917545 0
+50C:\Users\fpatr\Desktop\cv.1\dist\index.74912fb3.js133041664717588641 0
+43C:\Users\fpatr\Desktop\cv.1\dist\index.html133041687743308580 0
+54C:\Users\fpatr\Desktop\cv.1\dist\index.74912fb3.js.map133041664717598615 0
+50C:\Users\fpatr\Desktop\cv.1\dist\index.a007c545.js133041687102198722 0
+54C:\Users\fpatr\Desktop\cv.1\dist\index.a007c545.js.map133041687102278504 0
+50C:\Users\fpatr\Desktop\cv.1\dist\index.de158e3a.js133041663629897606 0
+50C:\Users\fpatr\Desktop\cv.1\dist\index.e0469521.js133041687102198722 0
+54C:\Users\fpatr\Desktop\cv.1\dist\index.e0469521.js.map133041687102278504 0

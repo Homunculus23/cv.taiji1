@@ -1,0 +1,2 @@
+let html=document.querySelector("#html"),style=document.querySelector("#style"),string="/*\n你好，我是一名前端新人\n接下来我要加样式了\n我要加的样式是\n*/\nbody{\n    color:red;\n}",n=0,string2="",step=()=>{string2+="\n"!==string[n]?" "!==string[n]?string[n]:"&nbsp;":"<br>",html.innerHTML=string2,style.innerHTML=string.substring(0,n),n++,setTimeout((()=>{n<string.length?step():console.log("输出完毕")}),100)};
+//# sourceMappingURL=index.e0469521.js.map
