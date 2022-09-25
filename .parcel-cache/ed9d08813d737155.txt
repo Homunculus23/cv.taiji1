@@ -1,12 +1,21 @@
-11
-32C:\Users\fpatr\Desktop\cv.1\dist133041695578399173 1
-38C:\Users\fpatr\Desktop\cv.1\.gitignore133041673209965366 0
-31C:\Users\fpatr\Desktop\cv.1\src133041673039982875 1
-42C:\Users\fpatr\Desktop\cv.1\src\index.html133041653493029336 0
-39C:\Users\fpatr\Desktop\cv.1\src\main.js133041664349786064 0
-54C:\Users\fpatr\Desktop\cv.1\dist\index.a007c545.js.map133041695578387775 0
-50C:\Users\fpatr\Desktop\cv.1\dist\index.a007c545.js133041695578307695 0
-40C:\Users\fpatr\Desktop\cv.1\src\taiji.js133041664716631032 0
-50C:\Users\fpatr\Desktop\cv.1\dist\index.e0469521.js133041695578327954 0
-54C:\Users\fpatr\Desktop\cv.1\dist\index.e0469521.js.map133041695578394078 0
-43C:\Users\fpatr\Desktop\cv.1\dist\index.html133041695578307695 0
+20
+38D:\Study\code\html_css\cv.1\.gitignore133041673209965366 0
+33D:\Study\code\html_css\cv.1\.idea133044201759921813 1
+39D:\Study\code\html_css\cv.1\src\main.js133041664349786064 0
+32D:\Study\code\html_css\cv.1\dist133085556292855909 1
+50D:\Study\code\html_css\cv.1\dist\index.7a715767.js133085556292795921 0
+54D:\Study\code\html_css\cv.1\dist\index.7a715767.js.map133085556292845912 0
+31D:\Study\code\html_css\cv.1\src133044201760590031 1
+42D:\Study\code\html_css\cv.1\src\index.html133085551417256698 0
+40D:\Study\code\html_css\cv.1\src\taiji.js133085556121986931 0
+41D:\Study\code\html_css\cv.1\src\style.css133085556004158565 0
+47D:\Study\code\html_css\cv.1\.idea\workspace.xml133042228924305808 0
+50D:\Study\code\html_css\cv.1\dist\index.e0469521.js133085556292795921 0
+54D:\Study\code\html_css\cv.1\dist\index.e0469521.js.map133085556292845912 0
+51D:\Study\code\html_css\cv.1\dist\index.ff018bb1.css133085556292795921 0
+55D:\Study\code\html_css\cv.1\dist\index.ff018bb1.css.map133085556292845912 0
+42D:\Study\code\html_css\cv.1\.idea\cv.1.iml133042228924006600 0
+43D:\Study\code\html_css\cv.1\dist\index.html133085556292795921 0
+42D:\Study\code\html_css\cv.1\.idea\misc.xml133042228924405813 0
+45D:\Study\code\html_css\cv.1\.idea\modules.xml133042228924226020 0
+41D:\Study\code\html_css\cv.1\.idea\vcs.xml133042228924535190 0

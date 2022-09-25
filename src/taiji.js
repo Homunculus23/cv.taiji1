@@ -1,8 +1,8 @@
-﻿let html1 = document.querySelector('#html1');
+let html1 = document.querySelector('#html1');
 let style1 = document.querySelector('#style1');
 
 let tjString = `
-/* 你好，我叫邱望
+/* 你好
  * 接下来我要展示一下我的前端功底
  * 首先我要准备一个div
  */
@@ -43,6 +43,8 @@ let tjString = `
     background: radial-gradient(circle, rgba(0,0,0,1) 25%, rgba(255,255,255,1) 25%);
     border-radius: 50%;
 }
+/* 一个简单的太极图就画完啦~！
+*/
 `;
 let tjn = 0;
 let tjString2 = ``;
